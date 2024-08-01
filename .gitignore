@@ -120,3 +120,6 @@ poetry.lock
 
 # Kaggle-specific (if needed)
 kaggle.json
+**/data/
+**/configs/
+**/submissions/
