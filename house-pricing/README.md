@@ -11,5 +11,5 @@ Display of the different approaches and their respective RMSE scores (best score
 
 | Rank | Model | RMSE Score | Notes |
 |------|-------|------------|-------|
-| 1    | XGBoost | 0.13457 | By-the-book approach |
+| 1    | XGBoost | 0.0.13359 | By-the-book approach |
 
