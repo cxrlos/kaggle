@@ -123,3 +123,4 @@ kaggle.json
 **/data/
 **/configs/
 **/submissions/
+*.keras
